@@ -16,7 +16,7 @@ TABLE OF CONTENTS:
   box-sizing: border-box; }
 
 body {
-  background: #ccc; }
+  background: pink; }
 
 .content {
   position: relative;
@@ -66,5 +66,14 @@ code {
   right: 20px;
   font-size: 0.8em;
   opacity: 0.1; }
+
+.p {
+  color: pink;
+  font-weight: bold;
+  font-family: cursive;
+  letter-spacing: .1em;
+  font-size: 1.2em;
+  line-height: 2em;
+}
 
 /*# sourceMappingURL=main.css.map */
